@@ -109,7 +109,7 @@ export default {
                         A maximum of 2 inputs are allowed when spamming. This will exclude for spammming methods such as Rake, as it isn't mainly considered a spam method.
                     </p>
                     <p>
-                        Hardware is specific to each level, as there may be levels that have been verified either uncapped or capped. If the level gets reverified uncapped, the verifier and verification video will be replaced, so will the placement.
+                        Hardware is specific to each level, as there may be levels that have been verified either uncapped or capped. If the level gets reverified uncapped, the verifier and verification video will be replaced, so will the placement. This will not include levels possible with K55.
                     </p>
                     <p>
                         You <b>must</b> beat the level on the listed framerate - if the level was verified on for ex. 60 FPS, it must be done on 60 FPS. Conpletions with framerates lower/higher than the requirement will be denied.
