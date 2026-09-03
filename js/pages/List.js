@@ -51,13 +51,13 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">Password</div>
-                            <p>{{ level.password || 'Free to Copy' }}</p>
+                            <div class="type-title-sm">FPS</div>
+                            <p>{{ level.hz || 'Any' }}</p>
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> or better to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> or better to qualify</p>
+                    <p v-if="selected + 1 <= 75"><strong>{{ level.percentToQualify }}%</strong> to qualify</p>
+                    <p v-else-if="selected +1 <= 150"><strong>{{ level.percentToQualify }}%</strong> to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
@@ -71,7 +71,7 @@ export default {
                                 <img v-if="record.mobile" :src="\`/assets/phone-landscape\${store.dark ? '-dark' : ''}.svg\`" alt="Mobile">
                             </td>
                             <td class="hz">
-                                <p>{{ record.hz }}Hz</p>
+                                <p>{{ record.hz }}</p>
                             </td>
                         </tr>
                     </table>
@@ -98,31 +98,34 @@ export default {
                             </li>
                         </ol>
                     </template>
-                    <h3>Submission Requirements</h3>
+                    <h3>List Rules</h3>
                     <p>
-                        Achieved the record without using hacks (however, FPS bypass is allowed, up to 360fps)
+                        The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning, unless if it's a chokepoint.
                     </p>
                     <p>
-                        Achieved the record on the level that is listed on the site - please check the level ID before you submit a record
+                        You are <b>not</b> allowed to use methods of spamming that require little effort for very high amounts of CPS, such as Drag Clicking or Bolt Clicking. Methods like Button-mashing will be allowed, only if the level is harder than the previous one.
                     </p>
                     <p>
-                        Have either source audio or clicks/taps in the video. Edited audio only does not count
+                        A maximum of 2 inputs are allowed when spamming. This will exclude for spammming methods such as Rake, as it isn't mainly considered a spam method.
                     </p>
                     <p>
-                        The recording must have a previous attempt and entire death animation shown before the completion, unless the completion is on the first attempt. Everyplay records are exempt from this
+                        Hardware is specific to each level, as there may be levels that have been verified either uncapped or capped. If the level gets reverified uncapped, the verifier and verification video will be replaced, so will the placement.
                     </p>
                     <p>
-                        The recording must also show the player hit the endwall, or the completion will be invalidated.
+                        You <b>must</b> beat the level on the listed framerate - if the level was verified on for ex. 60 FPS, it must be done on 60 FPS. Conpletions with framerates lower/higher than the requirement will be denied.
                     </p>
                     <p>
-                        Do not use secret routes or bug routes
+                        The minimum FPS of your challenge must be from 59 to 360. You're also allowed to use Physics Bypass, but you cannot bypass to 59 or above 240 FPS in 2.2, excluding CBF, as it will be listed as its own framerate.
                     </p>
                     <p>
-                        Do not use easy modes, only a record of the unmodified level qualifies
+                        Rebinding keys is allowed as long as you use 2 keys or less!
                     </p>
                     <p>
-                        Once a level falls onto the Legacy List, we accept records for it for 24 hours after it falls off, then afterwards we never accept records for said level
+                        As this may be the Spam Challenge List, levels that break length rules will <b>not</b> be allowed as it must be below 30 seconds. Any arguments about allowing levels will be ignored, as this is a challenge list, not a levels list.
                     </p>
+<p>
+If you are unsure about a problem/issue about the list you want to report, make sure to contact list staff members!
+</p>
                 </div>
             </div>
         </main>
