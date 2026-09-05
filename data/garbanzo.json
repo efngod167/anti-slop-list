@@ -1,0 +1,21 @@
+{
+    "id": 64086732,
+    "name": "GARBANZO",
+    "author": "Needless",
+    "creators": ["V453C70M14"],
+    "verifier": "pixelfactorial",
+    "verification": "https://youtu.be/ckW3V9nT52w",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/5gBToK4sOFE",
+        "hz": "CBF"
+      },
+      {
+        "user": "F1erzza",
+        "link": "https://youtu.be/hqdHm5IwpT4",
+        "hz": "CBF"
+      }
+    ]
+}
