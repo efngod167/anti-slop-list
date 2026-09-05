@@ -1,0 +1,50 @@
+{
+    "id": 69227013,
+    "name": "fardstep public",
+    "author": "ttsum",
+    "creators": ["JoinMolten"],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=NNMnON_BX4w",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/Qy-IXSd8i8k",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/watch?v=JYVy3KYQRzk",
+        "hz": 60
+      },
+      {
+        "user": "galbeni7",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=Iomxfu2wkPc",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/-m8VcZnAdzc",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/SJ8lqW3Auio",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://youtu.be/m-BHu6t25o0",
+        "hz": 60
+      },
+      {
+        "user": "helomomy",
+        "link": "https://youtu.be/NGhLs0XitwQ",
+        "hz": 60
+      }
+    ]
+}
