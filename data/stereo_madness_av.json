@@ -1,0 +1,21 @@
+{
+    "id": 124819786,
+    "name": "Stereo Madness AV",
+    "author": "aelzfr",
+    "creators": ["ElEeek, aelzfr"],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/G4NJvkMtwVQ",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/-EJClo5Tz34",
+        "hz": "CBF"
+      },
+      {
+        "user": "F1erzza",
+        "link": "https://youtu.be/G4NJvkMtwVQ",
+        "hz": "CBF"
+      }
+    ]
+}
