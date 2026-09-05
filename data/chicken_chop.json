@@ -1,0 +1,63 @@
+{
+    "id": 72461422,
+    "name": "Chicken Chop",
+    "author": "EmpanadR",
+    "creators": ["EmpanadR, ttsum"],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=Pn5HeH1dPU4",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/dmx0f1kmmGI",
+        "hz": 60
+      },
+      {
+        "user": "galbeni7",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/-m8VcZnAdzc",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+        "hz": 60
+      },
+      {
+        "user": "Sol-XSL",
+        "link": "https://youtu.be/rmUYuu1VC6Y",
+        "hz": 60
+      },
+      {
+        "user": "helomomy",
+        "hz": 60
+      },
+      {
+        "user": "Aphoem",
+        "link": "https://www.youtube.com/watch?v=QfaJs-1JUSo",
+        "hz": 60
+      },
+      {
+        "user": "MiRPacK19",
+        "link": "https://www.youtube.com/watch?v=XIo32GFZg6Q",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/AmJbSubCs0w",
+        "hz": 60
+      },
+      {
+        "user": "ClawBuckle",
+        "link": "https://youtu.be/a0nDHzZ1C80",
+        "hz": 60
+      }
+    ]
+}
