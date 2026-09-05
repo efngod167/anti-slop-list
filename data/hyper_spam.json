@@ -1,0 +1,26 @@
+{
+    "id": 71538933,
+    "name": "hyper spam",
+    "author": "9tn",
+    "creators": ["EmpanadR"],
+    "verifier": "Xnor",
+    "verification": "https://www.youtube.com/watch?v=UibYK8_Euk4",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "aelzfr",
+        "link": "https://www.youtube.com/live/vUGkRhQkAoM",
+        "hz": "CBF"
+      },
+      {
+        "user": "jostgmd",
+        "link": "https://www.tiktok.com/@jost2643/video/7629849745971891488",
+        "hz": "CBF"
+      },
+      {
+        "user": "Sandwich",
+        "link": "https://medal.tv/games/geometry-dash/clips/mNSDAGSE9a0Lsdkws",
+        "hz": "CBF"
+      }
+    ]
+}
