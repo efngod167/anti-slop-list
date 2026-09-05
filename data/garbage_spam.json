@@ -1,0 +1,25 @@
+{
+    "id": 75420033,
+    "name": "Garbage Spam",
+    "author": "MM9000",
+    "creators": [],
+    "verifier": "MM9000",
+    "verification": "https://www.youtube.com/watch?v=9JGNI9IIjAY",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/Wr7j5BuIEno",
+        "hz": "CBF"
+      },
+      {
+        "user": "galbeni7",
+        "hz": "CBF"
+      },
+      {
+        "user": "AllOnRed",
+        "link": "https://youtu.be/ADbQ0fpV3JE",
+        "hz": "CBF"
+      }
+    ]
+}
