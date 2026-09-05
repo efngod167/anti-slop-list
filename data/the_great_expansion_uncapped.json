@@ -1,0 +1,21 @@
+{
+    "id": 88172929,
+    "name": "the great expansion",
+    "author": "MeowPau",
+    "creators": ["dusky"],
+    "verifier": "PaperGuy",
+    "verification": "https://www.youtube.com/watch?v=ZGBpOBSzvek",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "F1erzza",
+        "link": "https://youtu.be/e7l7kp74gvE",
+        "hz": "CBF"
+      },
+      {
+        "user": "CoffeeChips",
+        "link": "https://www.youtube.com/watch?v=jMzOolsEcUA",
+        "hz": "CBF"
+      }
+    ]
+}
