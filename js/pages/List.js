@@ -25,7 +25,7 @@ export default {
                 <table class="list" v-if="list">
                     <tr v-for="([level, err], i) in list">
                         <td class="rank">
-                            <p v-if="i + 1 <= 150" class="type-label-lg">#{{ i + 1 }}</p>
+                            <p v-if="i + 1 <= 999" class="type-label-lg">#{{ i + 1 }}</p>
                             <p v-else class="type-label-lg">Legacy</p>
                         </td>
                         <td class="level" :class="{ 'active': selected == i, 'error': !level }">
@@ -56,8 +56,8 @@ export default {
                         </li>
                     </ul>
                     <h2>Records</h2>
-                    <p v-if="selected + 1 <= 75"><strong>100%</strong> to qualify</p>
-                    <p v-else-if="selected +1 <= 150"><strong>100%</strong> to qualify</p>
+                    <p v-if="selected + 1 <= 999"><strong>100%</strong> to qualify</p>
+                    <p v-else-if="selected +1 <= 999"><strong>100%</strong> to qualify</p>
                     <p v-else>This level does not accept new records.</p>
                     <table class="records">
                         <tr v-for="record in level.records" class="record">
@@ -103,7 +103,7 @@ export default {
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning, unless if it's a chokepoint.
                     </p>
                     <p>
-                        You are <b>not</b> allowed to use methods of spamming that require little effort for very high amounts of CPS, such as Drag Clicking or Bolt Clicking. Methods like Button-mashing will be allowed, only if the level is harder than the previous one.
+                        You are <b>not</b> allowed to use methods of spamming that require little effort for very high amounts of CPS, such as Drag Clicking or Bolt Clicking. Methods like Button-mashing will be allowed, only if the level is harder than the previous one. This will count for jitter-only levels aswell.
                     </p>
                     <p>
                         A maximum of 2 inputs are allowed when spamming. This will exclude for spammming methods such as Rake, as it isn't mainly considered a spam method.
