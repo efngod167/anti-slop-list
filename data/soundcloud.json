@@ -1,0 +1,46 @@
+{
+    "id": 108261881,
+    "name": "soundcloud",
+    "author": "pastelliano",
+    "creators": ["DubbyBall"],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=WtbV-Xmziaw",
+    "hz": "59",
+    "records": [
+      {
+        "user": "AmIAHamburger",
+        "link": "https://youtu.be/0x9F5EVmfnc",
+        "hz": 59
+      },
+      {
+        "user": "pastelliano",
+        "link": "https://youtu.be/blx7gemw8HQ",
+        "hz": 59
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/2gjq2ToFdCo",
+        "hz": 59
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/watch?v=olMuSriiTH0",
+        "hz": 59
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/rLLTW-wfO_g",
+        "hz": 59
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=s4DdYX4lFI0",
+        "hz": 59
+      },
+      {
+        "user": "EmpanadR",
+        "link": "https://youtu.be/jdW4PlpPK7U",
+        "hz": 59
+      }
+    ]
+}
