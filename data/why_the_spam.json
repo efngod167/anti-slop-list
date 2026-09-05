@@ -1,0 +1,21 @@
+{
+    "id": 66666321,
+    "name": "why the spam",
+    "author": "ElEeek",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/YWt5Dblg68M",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/hEmxPAA-k58",
+        "hz": "CBF",
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/YWt5Dblg68M",
+        "hz": "CBF"
+      }
+    ]
+}
