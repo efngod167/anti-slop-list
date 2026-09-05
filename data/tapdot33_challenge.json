@@ -1,0 +1,26 @@
+{
+    "id": 77263811,
+    "name": "tapdot33 challenge",
+    "author": "Fenyahks",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=YqR4WpIySwo",
+    "hz": "60",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/live/kLZlnOMfwWM",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/SuRguTjf-jQ",
+        "hz": 60
+      },
+      {
+        "user": "CelesteGD",
+        "link": "https://youtu.be/Ig9Awx8dAD4",
+        "hz": 60
+      }
+    ]
+}
