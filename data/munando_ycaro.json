@@ -1,0 +1,30 @@
+{
+    "id": 95980145,
+    "name": "munando ycaro",
+    "author": "pastelliano",
+    "creators": [],
+    "verifier": "pastelliano",
+    "verification": "https://www.youtube.com/watch?v=nKOOilOk84E",
+    "hz": "100",
+    "records": [
+      {
+        "user": "pixelfactorial",
+        "hz": 100
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=nKOOilOk84E",
+        "hz": 100
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/sNclUv-fJ4g",
+        "hz": 100
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FnYQdJ3AcSM",
+        "hz": 100
+      }
+    ]
+}
