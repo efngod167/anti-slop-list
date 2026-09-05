@@ -1,0 +1,25 @@
+{
+    "id": 65802903,
+    "name": "the longest what",
+    "author": "NXISE",
+    "creators": ["UFokinWotM8, NXISE"],
+    "verifier": "PaperGuy",
+    "verification": "https://youtu.be/ckW3V9nT52w",
+    "hz": "59",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=Xu9rV1ltNkE",
+        "hz": 59
+      },
+      {
+        "user": "galbeni7",
+        "hz": 59
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/CWsQsIzYDTo",
+        "hz": 59
+      }
+    ]
+}
