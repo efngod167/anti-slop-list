@@ -1,0 +1,90 @@
+{
+    "id": 94005583,
+    "name": "efnx2",
+    "author": "AverageOnPc",
+    "creators": ["Cyclic, JoinMolten, AverageOnPc"],
+    "verifier": "meow24",
+    "verification": "https://youtu.be/oxPacNuiHJs",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "Frozix",
+        "link": "https://youtu.be/oxPacNuiHJs",
+        "hz": 240
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/ENx-IgilVWM",
+        "hz": "CBF"
+      },
+      {
+        "user": "FaizanGMD",
+        "link": "https://www.youtube.com/watch?v=6810qqzccW4",
+        "hz": 360
+      },
+      {
+        "user": "wshock0",
+        "link": "https://www.youtube.com/watch?v=4MOLfOZIhNs",
+        "hz": "CBF"
+      },
+      {
+        "user": "IsntAdam",
+        "link": "https://youtu.be/VECbMlk2qbs",
+        "hz": "CBF"
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/MBjnZtJRQgM",
+        "hz": 360
+      },
+      {
+        "user": "PureL",
+        "link": "https://youtu.be/tFysj9s6jbY",
+        "hz": "CBF"
+      },
+      {
+        "user": "galbeni7",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/na5zk_n8AVM",
+        "hz": "CBF"
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=wgQPrBPfjV4",
+        "hz": "CBF"
+      },
+      {
+        "user": "JayGol",
+        "link": "https://www.youtube.com/watch?v=r7-qm3YnoD0",
+        "hz": "CBF"
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FR2SbfRIDlk",
+        "hz": "CBF"
+      },
+      {
+        "user": "Blendro",
+        "link": "https://youtu.be/hnZnS_-JnEo",
+        "hz": "CBF"
+      },
+      {
+        "user": "Thepaekboy",
+        "link": "https://www.youtube.com/watch?v=uyF4zqkB52U",
+        "hz": "CBF"
+      },
+      {
+        "user": "ClawBuckle",
+        "link": "https://youtu.be/VWETHZdMOxI",
+        "hz": 240
+      },
+      {
+        "user": "Wmunzii",
+        "link": "https://youtu.be/A6ul0hcSC2Y",
+        "hz": "CBF"
+      }
+    ]
+}
