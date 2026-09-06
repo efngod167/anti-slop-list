@@ -1,0 +1,65 @@
+{
+    "id": 66243774,
+    "name": "modded minecraft",
+    "author": "pixelfactorial",
+    "creators": ["DubbyBall"],
+    "verifier": "DubbyBall",
+    "verification": "https://www.youtube.com/watch?v=UrPo7oBCzOU",
+    "hz": "60",
+    "records": [
+      {
+        "user": "Ray131",
+        "link": "https://youtu.be/rjx9h94U8CY",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "EmpanadR",
+        "link": "https://www.youtube.com/watch?v=Pbi4qpUUPXA",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://youtu.be/P6E6nrGUKQ4",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/QAzdRnuHvdI",
+        "hz": 60
+      },
+      {
+        "user": "meow24",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": 60
+      },
+      {
+        "user": "galbeni7",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/RjbwBEYxBGE",
+        "hz": 60
+      },
+      {
+        "user": "Frozix",
+        "link": "https://youtu.be/4WhkcqN40Zw",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=YiD9SJIdiaE",
+        "hz": 60
+      }
+    ]
+}
