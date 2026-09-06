@@ -1,0 +1,46 @@
+{
+    "id": 92082117,
+    "name": "Contribution",
+    "author": "PaperGuy1",
+    "creators": [],
+    "verifier": "AmIAHamburger",
+    "verification": "https://www.youtube.com/watch?v=OkqQX2Enl-4",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=RE2jJiPft98",
+        "hz": 60
+      },
+      {
+        "user": "meow24",
+        "link": "https://youtu.be/wxcIPx0aLH0",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/RjbwBEYxBGE",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://youtu.be/P6E6nrGUKQ4",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+        "hz": 60,
+      },
+      {
+        "user": "Zenith",
+        "hz": 60
+      }
+    ]
+}
