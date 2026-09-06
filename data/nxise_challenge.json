@@ -1,0 +1,25 @@
+{
+    "id": 64920745,
+    "name": "Nxise Challenge",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=vOdcdEi0QYs",
+    "hz": "CBF",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=vOdcdEi0QYs",
+        "hz": "CBF"
+      },
+      {
+        "user": "F1erzza",
+        "link": "https://youtu.be/6B4hITxsZs8",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "hz": "CBF"
+      }
+    ]
+}
