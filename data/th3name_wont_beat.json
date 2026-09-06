@@ -1,0 +1,31 @@
+{
+    "id": 95253798,
+    "name": "th3name wont beat",
+    "author": "AverageOnPc",
+    "creators": [],
+    "verifier": "meow24",
+    "verification": "https://www.youtube.com/watch?v=WiXTU-NtmyM",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=jjom33YsJ48",
+        "hz": 60
+      },
+      {
+        "user": "IsntAdam",
+        "link": "https://youtu.be/Og72KRPNQnU",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/JQYtOTQMoq8",
+        "hz": 60
+      },
+      {
+        "user": "GMDMIRROR",
+        "link": "https://youtu.be/jIM1Gqsi-78",
+        "hz": 60
+      }
+    ]
+}
