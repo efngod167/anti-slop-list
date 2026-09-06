@@ -1,0 +1,40 @@
+{
+    "id": 72108796,
+    "name": "MeA",
+    "author": "Tap33",
+    "creators": [],
+    "verifier": "Ray131",
+    "verification": "https://www.youtube.com/watch?v=rjx9h94U8CY",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=l5RXyfqor1Y",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/dmx0f1kmmGI",
+        "hz": 60
+      },
+      {
+        "user": "galbeni7",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://youtu.be/Kj9bXdzswXI",
+        "hz": 60
+      },
+      {
+        "user": "Frozix",
+        "link": "https://youtu.be/2HZG9_re8Oo",
+        "hz": 60
+      }
+    ]
+}
