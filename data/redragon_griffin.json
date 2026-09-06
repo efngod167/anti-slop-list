@@ -1,0 +1,46 @@
+{
+    "id": 80613435,
+    "name": "redragon griffin",
+    "author": "pastelliano",
+    "creators": [],
+    "verifier": "pastelliano",
+    "verification": "https://www.youtube.com/watch?v=pAqH7r512hA",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=aV5iuliJCVs",
+        "hz": 60
+      },
+      {
+        "user": "meow24",
+        "link": "https://www.youtube.com/watch?v=3t-poeGSQ-s",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/c_4TBRlYZfI",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://youtu.be/P6E6nrGUKQ4",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=A4_Z0btEDVM",
+        "hz": 60
+      }
+    ]
+}
