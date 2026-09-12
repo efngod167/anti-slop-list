@@ -1,0 +1,30 @@
+{
+    "id": 67462089,
+    "name": "itgdssantfig",
+    "author": "9tn",
+    "creators": ["Inziz"],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=Wm25lC4-vcs",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/AM5IgPY0s1I",
+        "hz": "CBF"
+      },
+      {
+        "user": "meow24",
+        "hz": 360
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/hBjwZaUVONM",
+        "hz": "CBF"
+      },
+      {
+        "user": "AmIAHamburger",
+        "link": "https://youtu.be/6sO3IVWm3AY",
+        "hz": 360
+      }
+    ]
+}
