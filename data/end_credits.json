@@ -1,0 +1,66 @@
+{
+    "id": 67355805,
+    "name": "End Credits",
+    "author": "JoinMolten",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=P9NA4oGBv0c",
+    "hz": "60",
+    "records": [
+      {
+        "user": "Ray131",
+        "link": "https://www.youtube.com/watch?v=fJGz1bQmJWM",
+        "hz": 60,
+        "mobile": "true"
+      },
+        {
+        "user": "Tap33",
+        "link": "https://www.youtube.com/watch?v=pq52BYin0Is",
+        "hz": 60
+      },
+        {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=zEI-EjekB_M",
+        "hz": 60
+        },
+        {
+            "user": "meow24",
+            "hz": 60
+        },
+        {
+        "user": "pixelfactorial",
+        "hz": 60
+        },
+        {
+        "user": "Xnor",
+        "link": "https://youtu.be/nkA30MSuDFo",
+        "hz": 60
+        },
+        {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/_sqkvmxKjF4",
+        "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "link": "https://youtu.be/IV0IacuY3_s",
+            "hz": 60
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=nsbalquoqHc",
+            "hz": 60,
+          "mobile": "true"
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://www.youtube.com/watch?v=O2EFKvP8z6w",
+            "hz": "60"
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://www.youtube.com/watch?v=qWA9bbEeMzI",
+            "hz": 60
+        }
+    ]
+}
