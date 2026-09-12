@@ -1,0 +1,56 @@
+{
+    "id": 65288453,
+    "name": "watermelon spam",
+    "author": "Needless",
+    "creators": ["DrCuber"],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=90yiKBaOLUU",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=XNNqUlCwT98",
+        "hz": 360
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/aTdklBCBjiI",
+        "hz": "CBF"
+      },
+      {
+        "user": "meow24",
+        "hz": 360
+      },
+      {
+        "user": "aelzfr",
+        "hz": "CBF"
+      },
+      {
+        "user": "MM9000",
+        "hz": "CBF"
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/HqysaZw6giE",
+        "hz": "CBF"
+      },
+      {
+        "user": "JayGol",
+        "hz": "CBF"
+      },
+      {
+        "user": "PureL",
+        "link": "https://www.youtube.com/watch?v=lJtnSOz5KEw",
+        "hz": "CBF"
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FR2SbfRIDlk",
+        "hz": "CBF"
+      }
+    ]
+}
