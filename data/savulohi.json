@@ -1,0 +1,49 @@
+{
+    "id": 93931202,
+    "name": "savulohi",
+    "author": "PaperGuy1",
+    "creators": [],
+    "verifier": "AmIAHamburger",
+    "verification": "https://www.youtube.com/watch?v=qkBbCoNsVhg",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=-oSEKHw6XbI",
+        "hz": 60
+      },
+      {
+        "user": "meow24",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/OEZaG_m3b_Q",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=iQrY78aZBwo",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/WNfpw_xI4gU",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "hz": 60,
+        "mobile": "true"
+      }
+    ]
+}
