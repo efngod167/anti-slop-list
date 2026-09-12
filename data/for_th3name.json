@@ -1,0 +1,41 @@
+{
+    "id": 68546013,
+    "name": "for th3name",
+    "author": "Th3Name",
+    "creators": [],
+    "verifier": "Th3Name",
+    "verification": "https://www.youtube.com/watch?v=yj0kHtEJ7kA",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=iQLIwQqiYCw",
+        "hz": 60
+      },
+      {
+        "user": "meow24",
+        "hz": 60
+      },
+      {
+        "user": "IsntAdam",
+        "link": "https://youtu.be/CaeNnyaeW_k",
+        "hz": 60
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/watch?v=Q_Dwkav3EtE",
+        "hz": 60
+      },
+      {
+        "user": "JoeBTD",
+        "link": "https://www.youtube.com/watch?v=lw2L8OKp2Dg",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "TheChunkiestBunky",
+        "link": "https://m.youtube.com/watch?v=BqfIk2THyDc",
+        "hz": 60
+      }
+    ]
+}
