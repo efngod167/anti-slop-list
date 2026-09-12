@@ -1,0 +1,53 @@
+{
+    "id": 65621527,
+    "name": "Cherry Spam",
+    "author": "Needless",
+    "creators": ["DrCuber"],
+    "verifier": "Frozix",
+    "verification": "https://www.youtube.com/watch?v=eSZLVCLVQw4",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/aTdklBCBjiI",
+        "hz": "CBF"
+      },
+      {
+        "user": "xvFLYINGPIGSvx",
+        "hz": "CBF"
+      },
+      {
+        "user": "meow24",
+        "hz": 360
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/gWVxgPL04aI",
+        "hz": "CBF"
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FR2SbfRIDlk",
+        "hz": "CBF"
+      },
+      {
+        "user": "GMDMIRROR",
+        "link": "https://youtu.be/lvCMbPUYQ8Q",
+        "hz": "CBF"
+      },
+      {
+        "user": "loganberry",
+        "link": "https://www.youtube.com/watch?v=B1D5EmNVJxo",
+        "hz": "CBF"
+      },
+      {
+        "user": "AmIAHamburger",
+        "link": "https://www.youtube.com/watch?v=7MIqhcAyKAU",
+        "hz": 360
+      }
+    ]
+}
