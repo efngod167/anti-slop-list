@@ -1,0 +1,89 @@
+{
+    "id": 65719547,
+    "name": "Chainsaw",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=rE7OmE8bNgU",
+    "hz": "60",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/JSvahiHbhVc?t=103",
+        "hz": 60
+        },
+        {
+            "user": "MM9000",
+            "hz": 60
+        },
+        {
+            "user": "EmpanadR",
+            "hz": 60,
+            "mobile": true
+        },
+       {
+        "user": "pixelfactorial",
+        "hz": 60
+        },
+        {
+            "user": "meow24",
+            "hz": 60
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60
+        },
+        {
+            "user": "ywuChaos",
+            "link": "https://youtu.be/YaoGEhhqqyI",
+            "hz": 60
+        },
+        {
+            "user": "JoeBTD",
+            "link": "https://www.youtube.com/watch?v=Y76b5nSTZOM",
+            "hz": 60,
+            "mobile": "true"
+        },
+        {
+            "user": "Amigo16",
+            "link": "https://youtu.be/RhjvzZuGvyk",
+            "hz": 60
+        },
+        {
+            "user": "loooookkk",
+            "hz": 60
+        },
+        {
+            "user": "Thepaekboy",
+            "link": "https://www.youtube.com/watch?v=KZrclaEpM_Y",
+            "hz": "60"
+        },
+        {
+            "user": "Sol-XSL",
+            "link": "https://www.youtube.com/watch?v=UA78e53UhiY",
+            "hz": "60"
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/zfEzrh1_4yw?si=OxOeGyye4nKlPd4-",
+            "hz": 60
+        },
+        {
+            "user": "ad3usgmd",
+            "link": "https://youtu.be/WNfpw_xI4gU",
+            "hz": "60"
+        },
+        {
+            "user": "AmIAHamburger",
+            "link": "https://www.youtube.com/watch?v=S6V4v6CAb0o",
+            "hz": "60"
+        },
+        {
+            "user": "Th3Name",
+            "link": "https://www.youtube.com/watch?v=fvW9aQV24NQ",
+            "hz": "60",
+            "mobile": "true"
+        }
+    ]
+}
