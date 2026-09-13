@@ -1,0 +1,49 @@
+{
+    "id": 94816096,
+    "name": "TON REDUX",
+    "author": "aelzfr",
+    "creators": [],
+    "verifier": "aelzfr",
+    "verification": "https://youtu.be/eMC0N9uiV98",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "AmIAHamburger",
+        "hz": 360
+      },
+      {
+        "user": "wshock0",
+        "link": "https://www.twitch.tv/wshock0/clip/MotionlessTastyPeachMingLee-i6PEwQ2PLiFz-wa3",
+        "hz": "CBF"
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/eMC0N9uiV98",
+        "hz": "CBF"
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": "CBF"
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/sYlM-U2RWxw",
+        "hz": "CBF"
+      },
+      {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=iQrY78aZBwo",
+        "hz": "CBF"
+      },
+      {
+        "user": "V3chno",
+        "link": "https://youtu.be/JuPFz18ATJU",
+        "hz": "CBF"
+      }
+    ]
+}
