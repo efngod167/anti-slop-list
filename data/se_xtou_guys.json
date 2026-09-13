@@ -1,0 +1,39 @@
+{
+    "id": 94663164,
+    "name": "se xtou guys",
+    "author": "vitinxave",
+    "creators": [],
+    "verifier": "pastelliano",
+    "verification": "https://www.youtube.com/watch?v=ChIoYybnWqA",
+    "hz": "60",
+    "records": [
+      {
+        "user": "JoeBTD",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "Th3Name",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "aelzfr",
+        "hz": 60
+      },
+      {
+        "user": "Frozix",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=V8aRrwLFFoA",
+        "hz": 60
+      },
+      {
+        "user": "AmIAHamburger",
+        "hz": 60
+      }
+    ]
+}
