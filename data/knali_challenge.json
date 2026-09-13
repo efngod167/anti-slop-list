@@ -1,0 +1,49 @@
+{
+    "id": 64866304,
+    "name": "knali challenge",
+    "author": "Needless",
+    "creators": [],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=6UM9FOkqjy4",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=lFHD6bBumUM",
+        "hz": 360
+      },
+      {
+        "user": "IsntAdam",
+        "hz": "CBF"
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": "CBF"
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/FR2SbfRIDlk",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://www.youtube.com/live/9-_oI41DyYE",
+        "hz": "CBF"
+      },
+      {
+        "user": "AmIAHamburger",
+        "link": "https://www.youtube.com/watch?v=1kjCDgAOfao",
+        "hz": 300
+      },
+      {
+        "user": "Sarnin",
+        "link": "https://medal.tv/games/geometry-dash/clips/1umCLPdY3JiY5A?invite=cr-MSxvQTksNDExOTc2MzM4",
+        "hz": 360
+      },
+      {
+        "user": "meow24",
+        "link": "https://www.youtube.com/watch?v=YO3wbFO6PuE",
+        "hz": 360
+      }
+    ]
+}
