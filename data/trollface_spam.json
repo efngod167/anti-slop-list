@@ -1,0 +1,45 @@
+{
+    "id": 116490879,
+    "name": "trollface spam",
+    "author": "babseed",
+    "creators": ["pixelfactorial"],
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=8y23QZAhmuA",
+    "hz": "60",
+    "records": [
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/0uVxcx_arcM",
+        "hz": 60
+      },
+      {
+        "user": "Frozix",
+        "link": "https://youtu.be/4WhkcqN40Zw",
+        "hz": 60
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=-Es8WJq4cvY",
+        "hz": 60
+      },
+      {
+        "user": "loooookkk",
+        "link": "https://youtu.be/IV0IacuY3_s",
+        "hz": 60
+      },
+      {
+        "user": "Thepaekboy",
+        "link": "https://youtu.be/CSaBS-Kgrm8",
+        "hz": 60
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=8y23QZAhmuA",
+        "hz": 60
+      },
+      {
+        "user": "MiRPacK19",
+        "hz": 60
+      }
+    ]
+}
