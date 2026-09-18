@@ -1,0 +1,62 @@
+{
+    "id": https://www.youtube.com/watch?v=hKb9yiVPC_c,
+    "name": "pink",
+    "author": "Needless",
+    "creators": ["Haunter704, Nyan Cat, Needless"],
+    "verifier": "MeowPau",
+    "verification": "https://www.youtube.com/watch?v=hKb9yiVPC_c",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "meow24",
+        "hz": 360
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=HpgDyQt4AAM",
+        "hz": 240
+      },
+      {
+        "user": "Wavelog",
+        "link": "https://www.youtube.com/watch?v=xmwphrgx_PE",
+        "hz": 240
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": "CBF"
+      },
+      {
+        "user": "PalomitaOG",
+        "link": "https://www.youtube.com/watch?v=2HmTllV2jWQ",
+        "hz": "CBF"
+      },
+      {
+        "user": "aelzfr",
+        "hz": "CBF"
+      },
+      {
+        "user": "ywuChaos",
+        "link": "https://youtu.be/JZADpH1moZM",
+        "hz": "CBF"
+      },
+      {
+        "user": "fbihbi",
+        "hz": "CBF"
+      },
+      {
+        "user": "GMDMIRROR",
+        "link": "https://youtu.be/lvCMbPUYQ8Q",
+        "hz": "CBF"
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/WNfpw_xI4gU",
+        "hz": "CBF"
+      },
+      {
+        "user": "walplep",
+        "link": "https://youtu.be/PyN0T-aC7Ho",
+        "hz": "CBF"
+      }
+    ]
+}
