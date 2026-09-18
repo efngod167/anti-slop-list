@@ -51,7 +51,7 @@ export default {
                             <p>{{ level.id }}</p>
                         </li>
                         <li>
-                            <div class="type-title-sm">FPS</div>
+                            <div class="type-title-sm">FPS required</div>
                             <p>{{ level.hz || 'Any' }}</p>
                         </li>
                     </ul>
