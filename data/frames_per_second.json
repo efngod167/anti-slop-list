@@ -1,0 +1,46 @@
+{
+    "id": 65306280,
+    "name": "Frames Per Second",
+    "author": "NXISE",
+    "creators": [],
+    "verifier": "NXISE",
+    "verification": "https://www.youtube.com/watch?v=cFhwiB3QO24",
+    "hz": "63",
+    "records": [
+      {
+        "user": "meow24",
+        "hz": 63"
+      },
+      {
+        "user": "Sp8ce",
+        "hz": 63
+      },
+      {
+        "user": "Frozix",
+        "link": "https://www.youtube.com/watch?v=A4_Z0btEDVM",
+        "hz": 63
+      },
+      {
+        "user": "tFluffy",
+        "hz": 63
+      },
+      {
+        "user": "MiRPacK19",
+        "hz": 63
+      },
+      {
+        "user": "F1erzza",
+        "hz": 63
+      },
+      {
+        "user": "ad3usgmd",
+        "link": "https://youtu.be/WNfpw_xI4gU",
+        "hz": 63
+      },
+      {
+        "user": "IIBESTIKII",
+        "link": "https://youtu.be/F6Mwc_NTCj4",
+        "hz": 63
+      }
+    ]
+}
