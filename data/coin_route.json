@@ -1,0 +1,25 @@
+{
+    "id": 71891105,
+    "name": "Dont Even",
+    "author": "DerModster",
+    "creators": ["RobTop, DerModster"],
+    "verifier": "DerModster",
+    "verification": "https://youtu.be/ckW3V9nT52w",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "meow24",
+        "hz": 360
+      },
+      {
+        "user": "dubdundub",
+        "link": "https://youtu.be/Z8jUnk0ySLk",
+        "hz": 240
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://youtu.be/u-u2mPQ0onU",
+        "hz": 360
+      }
+    ]
+}
