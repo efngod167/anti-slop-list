@@ -121,7 +121,16 @@ export default {
                         As this may be the Spam Challenge List, levels that break length rules will <b>not</b> be allowed as it must be below 30 seconds. Any arguments about allowing levels will be ignored, as this is a challenge list, <b>not</b> a levels list.
                     </p>
                     <p>
-                        If you are unsure about a problem/issue about the list you want to report, make sure to contact list staff members!
+                        If your level is estimated to be from Top 25 to Top 10, make sure to include Raw Footage or Handcam so that we can assure your verification is good to go. Anything that's set to be harder <b>must</b> include raw footage.
+                    </p>
+                    <p>
+                        Your level must not be made in 2 minutes. This does not apply to historically significant levels, such as <b>the longest what</b>.
+                    </p>
+                    <p>
+                        If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed.
+                    </p>
+                    <p>
+                        Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot. A popular example of this is <b>GARBANZO</b> by Needless.
                     </p>
                     <h3>Banned Methods</h3>
                     <p>
@@ -135,6 +144,10 @@ export default {
                     </p>
                     <p>
                         <b>Scroll Clicking</b> - using your scroll wheel to achieve 100+ CPS in no time.
+                    </p>
+                    <h3>Need help?</h3>
+                    <p>
+                        If you are unsure about a problem/issue about the list you want to report, make sure to contact list staff members!
                     </p>
                 </div>
             </div>
