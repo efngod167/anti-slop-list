@@ -109,7 +109,7 @@ export default {
                         Hardware is specific to each level, as there may be levels that have been verified either uncapped or capped. If the level gets reverified uncapped, the verifier and verification video will be replaced, so will the placement. This will not include levels possible with K55.
                     </p>
                     <p>
-                        You <b>must</b> beat the level on the listed framerate - if the level was verified on for ex. 60 FPS, it must be done on 60 FPS. Conpletions with framerates lower/higher than the requirement will be denied.
+                        You <b>must</b> beat the level on the listed framerate - if the level was verified on for ex. 60 FPS, it must be done on 60 FPS. Conpletions with framerates lower/higher than the requirement will be denied, but this does not mean you're not allowed to beat a challenge with CBF if the level's FPS requirement is 240/360.
                     </p>
                     <p>
                         The minimum FPS of your challenge must be from 59 to 360. You're also allowed to use Physics Bypass, but you cannot bypass to 59 or above 240 FPS in 2.2, excluding CBF, as it will be listed as its own framerate.
@@ -118,11 +118,24 @@ export default {
                         Rebinding keys is allowed as long as you use 2 keys or less!
                     </p>
                     <p>
-                        As this may be the Spam Challenge List, levels that break length rules will <b>not</b> be allowed as it must be below 30 seconds. Any arguments about allowing levels will be ignored, as this is a challenge list, not a levels list.
+                        As this may be the Spam Challenge List, levels that break length rules will <b>not</b> be allowed as it must be below 30 seconds. Any arguments about allowing levels will be ignored, as this is a challenge list, <b>not</b> a levels list.
                     </p>
-<p>
-If you are unsure about a problem/issue about the list you want to report, make sure to contact list staff members!
-</p>
+                    <p>
+                        If you are unsure about a problem/issue about the list you want to report, make sure to contact list staff members!
+                    </p>
+                    <h3>Banned Methods</h3>
+                    <p>
+                        <b>Rake</b> - using your hand to slide against the input keys, letting you gain extremely high CPS.
+                    </p>
+                    <p>
+                        <b>Drag Clicking, Bolt Clicking</b> - dragging your finger on the mouse to also, gain high CPS effortlessly.
+                    </p>
+                    <p>
+                        <b>Lip Spam</b> - using your lips against your screen/input device to gain ridiculous amounts of CPS. You're not allowed to use this method to complete or verify frame-locked challenges.
+                    </p>
+                    <p>
+                        <b>Scroll Clicking</b> - using your scroll wheel to achieve 100+ CPS in no time.
+                    </p>
                 </div>
             </div>
         </main>
