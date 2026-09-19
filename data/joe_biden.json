@@ -1,0 +1,30 @@
+{
+    "id": 64981543,
+    "name": "joe biden",
+    "author": "Needless",
+    "creators": ["NXISE"],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=6UM9FOkqjy4",
+    "hz": "240/360",
+    "records": [
+      {
+        "user": "pixelfactorial",
+        "link": "https://youtu.be/94MUQ1Eus9Y",
+        "hz": "CBF"
+        },
+        {
+            "user": "AmIAHamburger",
+            "link": "https://www.youtube.com/watch?v=4YopjtbrZ_c",
+            "hz": 360
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://www.youtube.com/watch?v=DCo4IqDJd4s",
+            "hz": 360
+        },
+        {
+            "user": "meow24",
+            "hz": 360
+        }
+    ]
+}
