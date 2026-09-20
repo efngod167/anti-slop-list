@@ -32,6 +32,35 @@
         "user": "AmIAHamburger",
         "link": "https://www.youtube.com/watch?v=HI52CnBWAFI",
         "hz": 60
-      }
+      },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/AM5IgPY0s1I",
+            "hz": 60
+        },
+        {
+            "user": "EmpanadR",
+            "link": "https://www.youtube.com/watch?v=RIeuoO0A3_Q",
+            "hz": 60,
+            "mobile": "true"
+        },
+        {
+            "user": "pixelfactorial",
+            "hz": 60
+        },
+        {
+            "user": "galbeni7",
+            "hz": 60
+        },
+        {
+            "user": "PureL",
+            "link": "https://youtu.be/tFysj9s6jbY",
+            "hz": 60
+        },
+        {
+            "user": "CoffeeChips",
+            "link": "https://www.youtube.com/watch?v=VMC51O7jzAYY",
+            "hz": 60
+        }
     ]
 }
