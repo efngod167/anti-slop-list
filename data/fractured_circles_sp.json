@@ -15,6 +15,10 @@
         "user": "PaperGuy",
         "link": "https://www.youtube.com/watch?v=3RXGbVJt8eM",
         "hz": 360
-      }
+      },
+        {
+            "user": "pixelfactorial",
+            "hz": 360
+        }
     ]
 }
