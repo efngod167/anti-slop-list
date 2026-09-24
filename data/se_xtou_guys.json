@@ -34,6 +34,10 @@
       {
         "user": "AmIAHamburger",
         "hz": 60
-      }
+      },
+        {
+            "user": "pixelfactorial",
+            "hz": 60
+        }
     ]
 }
