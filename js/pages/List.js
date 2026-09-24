@@ -124,7 +124,7 @@ export default {
                         If your level is estimated to be from Top 25 to Top 10, make sure to include Raw Footage or Handcam so that we can assure your verification is good to go. Anything that's set to be harder <b>must</b> include raw footage.
                     </p>
                     <p>
-                        Your level must not be made in 2 minutes. This does not apply to historically significant levels, such as <b>the longest what</b>.
+                        Your level must not be made in 2 minutes to prevent the list being flooded with badly made levels. This does not apply to historically significant levels, such as <b>the longest what</b>.
                     </p>
                     <p>
                         If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed.
