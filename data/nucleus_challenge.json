@@ -24,6 +24,10 @@
         "user": "TheChunkiestBunny",
         "link": "https://www.youtube.com/watch?v=6zuKHzxcIXk",
         "hz": 60
-      }
+      },
+        {
+            "user": "pixelfactorial",
+            "hz": 60
+        }
     ]
 }
