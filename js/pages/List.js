@@ -130,7 +130,7 @@ export default {
                         If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed.
                     </p>
                     <p>
-                        Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot unless it massively affectes the difficulty of the level. A popular example of this is <b>GARBANZO</b> by Needless.
+                        Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot unless it heavily affectes the difficulty of the level. A popular example of this is <b>GARBANZO</b> by Needless.
                     </p>
                     <h3>Banned Methods</h3>
                     <p>
