@@ -130,11 +130,11 @@ export default {
                         If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed.
                     </p>
                     <p>
-                        Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot. A popular example of this is <b>GARBANZO</b> by Needless.
+                        Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot unless it massively affectes the difficulty of the level. A popular example of this is <b>GARBANZO</b> by Needless.
                     </p>
                     <h3>Banned Methods</h3>
                     <p>
-                        <b>Rake</b> - using your hand to slide against the input keys, letting you gain extremely high CPS.
+                        <b>Any method related to Raking</b> - using your hand to slide against the input keys, letting you gain extremely high CPS.
                     </p>
                     <p>
                         <b>Drag Clicking, Bolt Clicking</b> - dragging your finger on the mouse to also, gain high CPS effortlessly.
@@ -143,7 +143,7 @@ export default {
                         <b>Lip Spam</b> - using your lips against your screen/input device to gain ridiculous amounts of CPS. You're not allowed to use this method to complete or verify frame-locked challenges.
                     </p>
                     <p>
-                        <b>Scroll Clicking</b> - using your scroll wheel to achieve 100+ CPS in no time.
+                        <b>Scroll Clicking</b> - using your scroll wheel to achieve 100+ CPS in no time, even 1,000.
                     </p>
                     <h3>Need help?</h3>
                     <p>
