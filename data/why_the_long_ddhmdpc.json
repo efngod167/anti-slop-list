@@ -1,0 +1,37 @@
+{
+    "id": 65580943,
+    "name": "why the long ddhmdpc",
+    "author": "ElEeek",
+    "creators": [],
+    "verifier": "ElEeek",
+    "verification": "https://www.youtube.com/watch?v=MJ--3OKJJIg",
+    "hz": "60",
+    "records": [
+      {
+        "user": "Alpa",
+        "link": "https://www.youtube.com/watch?v=MJ--3OKJJIg",
+        "hz": 60
+      },
+      {
+        "user": "Ray131",
+        "link": "https://www.youtube.com/watch?v=CYCwQ1eD1Zc",
+        "hz": 60,
+        "mobile": "true"
+      },
+      {
+        "user": "PaperGuy",
+        "link": "https://www.youtube.com/watch?v=Ja8hoPqARLY",
+        "hz": 60
+      },
+      {
+        "user": "AmIAHamburger",
+        "link": "https://www.youtube.com/watch?v=HI52CnBWAFI",
+        "hz": 60
+      },
+      {
+        "user": "pixelfactorial",
+        "link": "https://www.youtube.com/watch?v=UDX1bpHX5CE",
+        "hz": 60
+      }
+    ]
+}
