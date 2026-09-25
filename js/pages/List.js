@@ -128,7 +128,7 @@ export default {
                         Your level must not be made in 2 minutes to prevent the list being flooded with badly made levels. This does not apply to historically significant levels, such as <b>the longest what</b>.
                     </p>
                     <p>
-                        If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed.
+                        If your level contains hateful symbols or words, you must be forced to remove them, otherwise your level wouldn't get placed. This also counts for suggestive art.
                     </p>
                     <p>
                         Reverifications of capped levels are allowed, but will be re-estimated to be in their correct spot unless it heavily affectes the difficulty of the level. A popular example of this is <b>GARBANZO</b> by Needless.
