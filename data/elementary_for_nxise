@@ -1,0 +1,70 @@
+{
+    "id": 71806672,
+    "name": "elementary for nxise",
+    "author": "JoinMolten",
+    "creators": ["Cyclic, JoinMolten"],
+    "verifier": "JoinMolten",
+    "verification": "https://www.youtube.com/watch?v=VjX_FwRgOgQ",
+    "hz": "240/360",
+    "records": [
+{
+        "user": "EmpanadR",
+        "link": "https://www.youtube.com/watch?v=XQsl_8NWHNE",
+        "hz": 360
+      },
+      {
+        "user": "IsntAdam",
+        "link": "https://youtu.be/S3V2GGz8HZQ",
+        "hz": "CBF"
+      },
+      {
+        "user": "CoffeeChips",
+        "link": "https://x.com/CoffeeChipsGD/status/1857494635628675319",
+        "hz": "CBF"
+      },
+      {
+        "user": "pixelfactorial",
+        "hz": 360
+      },
+      {
+        "user": "Frozix",
+        "link": "https://youtu.be/TPWbjc3Q_Uo",
+        "hz": 360
+      },
+      {
+      "user": "PaperGuy",
+      "link": "https://youtu.be/8iutlRhcW7k",
+      "hz": 240
+      },
+      {
+      "user": "ivangys",
+      "link": "https://www.youtube.com/watch?v=eEBt4fOMEp0",
+      "hz": 240
+      },
+      {
+      "user": "ywuChaos",
+      "link": "https://youtu.be/xqC9JGxe1AE",
+      "hz": "CBF"
+      },
+      {
+      "user": "PureL",
+      "link": "https://www.youtube.com/watch?v=MBgJZXISRmg",
+      "hz": "CBF"
+      },
+      {
+      "user": "Avery",
+      "link": "https://www.youtube.com/watch?v=IwBu1pqMwHg",
+      "hz": "CBF"
+      },
+      {
+      "user": "MM9000",
+      "link": "https://www.youtube.com/watch?v=uKU0JojQC_U",
+      "hz": 360
+      },
+      {
+      "user": "galbeni7",
+      "link": "https://www.youtube.com/watch?v=j0jpKJsQiRg",
+      "hz": "CBF"
+      }
+    ]
+}
