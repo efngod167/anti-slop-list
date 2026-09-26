@@ -101,7 +101,7 @@ export default {
                         The difficulty must be almost all in the spam of the level. You are allowed to put a triple spike or a timing at the end or beginning, unless if it's a chokepoint.
                     </p>
                     <p>
-                        You are <b>not</b> allowed to use methods of spamming that require little effort for very high amounts of CPS, such as Drag Clicking or Bolt Clicking. Methods like Button-mashing will be allowed, only if the level is harder than the previous one. This will count for jitter-only levels aswell.
+                        You are <b>not</b> allowed to use methods of spamming that require little effort for very high amounts of CPS, such as Drag Clicking or Bolt Clicking. Methods like Button-mashing will be allowed, only if the level is the hardest in its different variant. This will count for jitter-only levels aswell.
                     </p>
                     <p>
                         A maximum of 2 inputs are allowed when spamming. This will exclude for spammming methods such as Rake, as it isn't mainly considered a spam method.
@@ -120,9 +120,6 @@ export default {
                     </p>
                     <p>
                         As this may be the Spam Challenge List, levels that break length rules will <b>not</b> be allowed as it must be below 30 seconds. Any arguments about allowing levels will be ignored, as this is a challenge list, <b>not</b> a levels list.
-                    </p>
-                    <p>
-                        If your level is estimated to be from Top 25 to Top 10, make sure to include Raw Footage or Handcam so that we can assure your verification is good to go. Anything that's set to be harder <b>must</b> include raw footage.
                     </p>
                     <p>
                         Your level must not be made in 2 minutes to prevent the list being flooded with badly made levels. This does not apply to historically significant levels, such as <b>the longest what</b>.
