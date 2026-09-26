@@ -5,6 +5,11 @@
         "link": "https://youtube.com/@pixelfactorial"
     },
     {
+        "role": "helper",
+        "name": "CoffeeChips",
+        "link": "https://www.youtube.com/@coffeechips"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
