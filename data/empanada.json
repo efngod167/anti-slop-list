@@ -132,6 +132,10 @@
             "user": "JoeBTD",
             "hz": "60",
             "mobile": "true"
+        },
+        {
+            "user": "tFluffy",
+            "hz": 60
         }
     ]
 }
