@@ -166,6 +166,12 @@
             "user": "Aut0Plays",
             "link": "https://youtu.be/2mwpQhZX0v4",
             "hz": 240
+        },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": "CBF",
+            "mobile": "true"
         }
     ]
 }
