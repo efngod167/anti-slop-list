@@ -38,6 +38,11 @@
         {
             "user": "pixelfactorial",
             "hz": 60
+        },
+        {
+            "user": "tFluffy",
+            "hz": 60,
+            "mobile": "true"
         }
     ]
 }
