@@ -26,6 +26,12 @@
         "user": "ad3usgmd",
         "link": "https://youtu.be/WNfpw_xI4gU",
         "hz": 90
-      }
+      },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": 90,
+            "mobile": "true"
+        }
     ]
 }
