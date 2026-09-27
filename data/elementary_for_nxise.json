@@ -79,6 +79,12 @@
             "user": "IamChips",
             "link": "https://www.youtube.com/watch?v=I8pZlrXGu4s",
             "hz": "CBF"
+        },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": "CBF",
+            "mobile": "true"
         }
     ]
 }
