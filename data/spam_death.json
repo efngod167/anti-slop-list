@@ -61,6 +61,12 @@
             "user": "CoffeeChips",
             "link": "https://www.youtube.com/watch?v=VMC51O7jzAYY",
             "hz": 60
+        },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": 60,
+            "mobile": "true"
         }
     ]
 }
