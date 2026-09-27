@@ -32,6 +32,10 @@
         "user": "pixelfactorial",
         "link": "https://www.youtube.com/watch?v=UDX1bpHX5CE",
         "hz": 60
-      }
+      },
+        {
+            "user": "sobaken",
+            "hz": 60
+        }
     ]
 }
