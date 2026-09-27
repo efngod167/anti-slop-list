@@ -74,6 +74,12 @@
         "user": "DrakkoGMD",
         "link": "https://www.youtube.com/shorts/5DnJU1p1-kM",
         "hz": "CBF"
-      }
+      },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": "CBF",
+            "mobile": "true"
+        }
     ]
 }
