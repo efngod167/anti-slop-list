@@ -25,6 +25,12 @@
             "user": "pixelfactorial",
             "link": "https://www.youtube.com/watch?v=UDX1bpHX5CE",
             "hz": 360
+        },
+        {
+            "user": "Liknod",
+            "link": "https://www.youtube.com/watch?v=e8TOHde5uas",
+            "hz": "CBF",
+            "mobile": "true"
         }
     ]
 }
