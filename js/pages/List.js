@@ -138,7 +138,7 @@ export default {
                         <b>Drag Clicking, Bolt Clicking</b> - dragging your finger on the mouse to also, gain high CPS effortlessly.
                     </p>
                     <p>
-                        <b>Lip Spam</b> - using your lips against your screen/input device to gain ridiculous amounts of CPS. You're not allowed to use this method to complete or verify frame-locked challenges.
+                        <b>Lip Spam</b> - using your lips against your screen/input device to gain ridiculous amounts of CPS.
                     </p>
                     <p>
                         <b>Scroll Clicking</b> - using your scroll wheel to achieve 100+ CPS in no time, even 1,000.
