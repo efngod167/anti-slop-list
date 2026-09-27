@@ -48,6 +48,11 @@
         "user": "AmIAHamburger",
         "link": "https://www.youtube.com/watch?v=7MIqhcAyKAU",
         "hz": 360
-      }
+      },
+        {
+            "user": "Aut0Plays",
+            "link": "https://youtu.be/9Ugdi5d9gcE",
+            "hz": "CBF"
+        }
     ]
 }
