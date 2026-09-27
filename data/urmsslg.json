@@ -129,12 +129,17 @@
         {
             "user": "AmIAHamburger",
             "link": "https://www.youtube.com/watch?v=qppyGQx2_TQ",
-            "hz": "360"
+            "hz": 360
         },
         {
             "user": "dubdundub",
             "hz": 360,
             "link": "https://youtu.be/FnT8_CjEpaw"
+        },
+        {
+            "user": "tFluffy",
+            "link": "https://www.youtube.com/watch?v=6Z9g5b6i_4w",
+            "hz": "CBF"
         }
     ]
 }
