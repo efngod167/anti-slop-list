@@ -10,6 +10,11 @@
         "link": "https://www.youtube.com/@coffeechips"
     },
     {
+        "role": "helper",
+        "name": "IamChips",
+        "link": "https://www.youtube.com/@Gummist"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
