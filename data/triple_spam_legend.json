@@ -121,7 +121,8 @@
         {
             "user": "Aut0Plays",
             "link": "https://youtu.be/5lLaWhj5vH4",
-            "hz": 60
+            "hz": 60,
+            "mobile": "true"
         }
     ]
 }
