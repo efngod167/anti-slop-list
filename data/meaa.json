@@ -8,4 +8,9 @@
     "hz": "60",
     "records": [
     ]
+    ,
+        {
+        "user": "pixelfactorial",
+        "hz": 60
+        }
 }
