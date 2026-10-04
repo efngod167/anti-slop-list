@@ -5,7 +5,7 @@
     "creators": ["vertxgo, ElEeek"],
     "verifier": "ElEeek",
     "verification": "https://www.youtube.com/watch?v=yxOoSIembhI",
-    "hz": "240",
+    "hz": "240/360",
     "records": [
       {
         "user": "MM9000",
@@ -102,6 +102,21 @@
             "user": "Aut0Plays",
             "link": "https://youtu.be/ugQfCeoLbMw",
             "hz": 240
+        },
+        {
+            "user": "dubdundub",
+            "link": "https://youtu.be/FnT8_CjEpaw",
+            "hz": 360
+        },
+        {
+            "user": "PaperGuy",
+            "link": "https://youtu.be/zZ9v3MeY_y4",
+            "hz": 360
+        },
+        {
+            "user": "meow24",
+            "link": "https://www.youtube.com/watch?v=TwGeoANrvvg",
+            "hz": 360
         }
     ]
 }
