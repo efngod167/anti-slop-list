@@ -115,6 +115,9 @@ export default {
                     <p>
                         The minimum FPS of your challenge must be from 59 to 360. You're also allowed to use Physics Bypass, but you cannot bypass to 59 or above 240 FPS in 2.2, excluding CBF, as it will be listed as its own framerate This rule can be ignored if you're experiencing problems with not being able to play on a 2.1 client, for ex. OS issues.
                     </p>
+<p>
+    You <b>must</b> beat the level using the ID on the list, as you're not allowed to beat for ex. <b>Sakupen circles spam</b> by MeowPau in a different level, such as <b>uskc madness</b> or <b>meowpau chal nerf</b>.
+</p>
                     <p>
                         Rebinding keys is allowed as long as you use 2 keys or less!
                     </p>
