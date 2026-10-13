@@ -6,5 +6,11 @@
     "verifier": "aelzfr",
     "verification": "https://www.youtube.com/watch?v=w_jT1LVs-yk",
     "hz": "90",
-    "records": []
+    "records": [
+       {
+            "user": "CoffeeChips",
+            "link": "https://youtu.be/7rFpuns4HH8",
+            "hz": "90"
+        }
+]
 }
