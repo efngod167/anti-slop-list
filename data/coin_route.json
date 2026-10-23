@@ -50,6 +50,11 @@
         {
             "user": "Zoe",
             "hz": "CBF"
+        },
+        {
+            "user": "sobaken",
+            "hz": "CBF",
+            "mobile": "true"
         }
     ]
 }
