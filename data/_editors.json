@@ -5,6 +5,11 @@
         "link": "https://youtube.com/@pixelfactorial"
     },
     {
+        "role": "owner",
+        "name": "MM9000",
+        "link": "https://www.youtube.com/@MoistMosquito9000"
+    },
+    {
         "role": "admin",
         "name": "CoffeeChips",
         "link": "https://www.youtube.com/@coffeechips"
