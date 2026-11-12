@@ -3,13 +3,14 @@
     "name": "MeAA",
     "author": "Tap33",
     "creators": [],
-    "verifier": "ad3usgmd",
-    "verification": "https://www.youtube.com/watch?v=asa-1gIo02o",
+    "verifier": "pixelfactorial",
+    "verification": "https://www.youtube.com/watch?v=ub1iQZEhLUU",
     "hz": "60",
     "records": [
         {
-        "user": "pixelfactorial",
+        "user": "ad3usgmd",
+        "link": "https://www.youtube.com/watch?v=asa-1gIo02o",
         "hz": 60
-        }
+      }
     ]
 }
