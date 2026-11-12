@@ -20,6 +20,11 @@
         "link": "https://www.youtube.com/@Gummist"
     },
     {
+        "role": "helper",
+        "name": "ClawBuckle",
+        "link": "https://www.youtube.com/channel/UC-GEnR6GtTwN8Bu49TyalsA"
+    },
+    {
         "role": "dev",
         "name": "Prometheus",
         "link": "https://www.youtube.com/@Prometheus_Alt"
