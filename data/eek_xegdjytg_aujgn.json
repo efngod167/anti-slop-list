@@ -3,41 +3,18 @@
     "name": "eek xegdjytg aujgn",
     "author": "ElEeek",
     "creators": ["Inziz"],
-    "verifier": "MeowPau",
-    "verification": "https://www.youtube.com/watch?v=DFYZPtwFUvQ",
+    "verifier": "ywuChaos",
+    "verification": "https://youtu.be/SVfGd6mo3-8",
     "hz": "240/360",
     "records": [
-      {
-        "user": "meow24",
-        "hz": 360
-      },
-      {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/AM5IgPY0s1I",
-        "hz": "CBF"
-      },
-      {
-        "user": "IsntAdam",
-        "link": "https://youtu.be/UxtX6y0Wx-Q",
-        "hz": "CBF"
-      },
-      {
-        "user": "MM9000",
-        "hz": "CBF"
-      },
-      {
-        "user": "ywuChaos",
-        "link": "https://youtu.be/SVfGd6mo3-8",
-        "hz": "CBF"
-      },
-      {
-        "user": "loooookkk",
-        "link": "https://youtu.be/-m8VcZnAdzc",
-        "hz": "CBF"
-      },
         {
             "user": "pixelfactorial",
             "link": "https://www.youtube.com/watch?v=ub1iQZEhLUU",
+            "hz": 240
+        },
+        {
+            "user": "ClawBuckle",
+            "link": "https://youtu.be/HJvOwS5U7no"
             "hz": 240
         }
     ]
