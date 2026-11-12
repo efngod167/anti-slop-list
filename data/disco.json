@@ -3,12 +3,13 @@
     "name": "disco",
     "author": "rRobert01",
     "creators": [],
-    "verifier": "rob01",
-    "verification": "https://www.youtube.com/watch?v=dV_UBVLaufY",
+    "verifier": "ywuChaos",
+    "verification": "https://www.youtube.com/watch?v=MCHTw1h2kBA",
     "hz": "CBF",
     "records": [
       {
-        "user": "ywuChaos",
+        "user": "rob01",
+        "link": "https://www.youtube.com/watch?v=dV_UBVLaufY",
         "hz": "CBF"
       }
     ]
