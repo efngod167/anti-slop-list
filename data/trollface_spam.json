@@ -3,10 +3,14 @@
     "name": "trollface spam",
     "author": "babseed",
     "creators": ["pixelfactorial"],
-    "verifier": "pixelfactorial",
+    "verifier": "PaperGuy",
     "verification": "https://www.youtube.com/watch?v=8y23QZAhmuA",
     "hz": "60",
     "records": [
+      {
+        "user": "pixelfactorial",
+        "hz": 60,
+      },
       {
         "user": "ywuChaos",
         "link": "https://youtu.be/0uVxcx_arcM",
