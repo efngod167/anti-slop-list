@@ -3,13 +3,12 @@
     "name": "another way",
     "author": "pixelfactorial",
     "creators": [],
-    "verifier": "pixelfactorial",
+    "verifier": "PaperGuy",
     "verification": "https://youtu.be/BSEBTy4fhtw",
     "hz": "64",
     "records": [
       {
-        "user": "PaperGuy",
-        "link": "https://youtu.be/BSEBTy4fhtw",
+        "user": "pixelfactorial",
         "hz": 64
       },
       {
