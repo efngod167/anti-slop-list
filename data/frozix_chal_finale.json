@@ -1,12 +1,15 @@
 {
-    "id": 121915838,
+    "id": 152018152,
     "name": "FROZIX CHAL FINALE",
-    "author": "ad3usgmd",
-    "creators": [],
-    "verifier": "ad3usgmd",
+    "author": "ywuChaos",
+    "creators": ["ad3usgmd"],
+    "verifier": "ywuChaos",
     "verification": "https://youtu.be/nB8zePcEy5Y",
     "hz": "CBF",
     "records": [
+      { 
+        "user": "ad3usgmd",
+        "hz" "CBF"
       {
         "user": "loooookkk",
         "link": "https://www.youtube.com/watch?v=FPwO-IqDu1Q",
