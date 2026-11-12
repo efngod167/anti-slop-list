@@ -3,13 +3,12 @@
     "name": "Nxise Challenge",
     "author": "Needless",
     "creators": [],
-    "verifier": "pixelfactorial",
+    "verifier": "PaperGuy",
     "verification": "https://www.youtube.com/watch?v=vOdcdEi0QYs",
     "hz": "CBF",
     "records": [
       {
-        "user": "PaperGuy",
-        "link": "https://www.youtube.com/watch?v=vOdcdEi0QYs",
+        "user": "pixelfactorial",
         "hz": "CBF"
       },
       {
