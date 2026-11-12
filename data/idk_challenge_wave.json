@@ -2,14 +2,13 @@
     "id": 114654113,
     "name": "idk challenge wave",
     "author": "pixelfactorial",
-    "creators": ["MeowPau"],
-    "verifier": "pixelfactorial",
+    "creators": ["MeowPau, pixelfactorial"],
+    "verifier": "ywuChaos",
     "verification": "https://www.youtube.com/watch?v=0B2v4wfHXFw",
     "hz": "CBF",
     "records": [
       {
-        "user": "ywuChaos",
-        "link": "https://youtu.be/mNOj-wMHY_I",
+        "user": "pixelfactorial",
         "hz": "CBF"
       },
       {
