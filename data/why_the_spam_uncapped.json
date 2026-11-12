@@ -3,10 +3,14 @@
     "name": "why the spam",
     "author": "ElEeek",
     "creators": [],
-    "verifier": "aelzfr",
+    "verifier": "PaperGuy",
     "verification": "https://youtu.be/YWt5Dblg68M",
     "hz": "CBF",
     "records": [
+      { 
+        "user": "aelzfr",
+        "link": "CBF",
+      },
       {
         "user": "ywuChaos",
         "link": "https://youtu.be/hEmxPAA-k58",
