@@ -3,10 +3,13 @@
     "name": "munando ycaro",
     "author": "pastelliano",
     "creators": [],
-    "verifier": "pastelliano",
+    "verifier": "PaperGuy",
     "verification": "https://www.youtube.com/watch?v=nKOOilOk84E",
     "hz": "100",
     "records": [
+      {
+        "user": "pastelliano",
+        "hz": 100
       {
         "user": "pixelfactorial",
         "hz": 100
