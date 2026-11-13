@@ -3,10 +3,14 @@
     "name": "Ultra Obama Chall 2",
     "author": "BensonGD",
     "creators": [],
-    "verifier": "BensonGD",
+    "verifier": "MeowPau",
     "verification": "https://www.youtube.com/watch?v=Un-kBRzd8Bg",
     "hz": "240/360",
     "records": [
+      {
+        "user": "BensonGD",
+        "hz": 360
+      },
       {
         "user": "MeowPau",
         "link": "https://www.youtube.com/watch?v=Un-kBRzd8Bg",
